@@ -1,0 +1,11 @@
+﻿  Hotel.cpp
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(416): warning C4101: 'choiceForCondition' : unreferenced local variable
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(415): warning C4101: 'userInput' : unreferenced local variable
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(416): warning C4101: 'choice' : unreferenced local variable
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(489): warning C4101: 'RoomSelect' : unreferenced local variable
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(722): error C2065: 'm' : undeclared identifier
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(726): error C2065: 'm' : undeclared identifier
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(730): error C2065: 'm' : undeclared identifier
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(747): error C2059: syntax error : 'return'
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(748): error C2059: syntax error : '}'
+e:\skydrive\2014-summer\cs-131\hotel\hotel\hotel.cpp(748): error C2143: syntax error : missing ';' before '}'
